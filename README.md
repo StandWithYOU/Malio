@@ -3,16 +3,14 @@
 
 本主题包含了SSPANEL的完整代码，需要删除原来的面板，然后全新安装（数据库通用），操作前请备份面板
 
+## 安装步骤
+
+
 ## 贡献
 
 [提出新想法 & 提交 Bug](https://github.com/Cadwalader307/Malio-Theme-for-SSPANEL/issues/new) | [改善文档 & 投稿](https://github.com/Cadwalader307/Malio-Theme-for-SSPANEL/Wiki) | [Fork & Pull Request](https://github.com/Cadwalader307/Malio-Theme-for-SSPANEL/pulls)
 
 由于原开发团队已经放弃Malio主题，因此此项目欢迎各种贡献，包括但不限于改进，新功能，文档和代码改进，问题和错误报告。
-
-## Wiki
-[详细安装教程](https://github.com/Cadwalader307/Malio-Theme-for-SSPANEL/wiki/%E8%AF%A6%E7%BB%86%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B)
-
-[授权说明](https://gitlab.com/maxitio/malio-theme-for-sspanel/wikis/授权说明)
 
 ## 注意事项
 .malio_config.php 文件里的商品id必须设置好，不然在商店plans模式下没办法购买。
